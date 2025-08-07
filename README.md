@@ -1,6 +1,12 @@
 # Task & Team Management API
+<img width="1512" height="602" alt="Screenshot 2025-08-07 at 12 08 28 PM" src="https://github.com/user-attachments/assets/a036e024-6a40-4ca4-a1f4-045a10a1b042" />
 
 A full-stack task and team management application with JWT authentication, built with Node.js, Express, MongoDB, and React.
+<img width="1507" height="851" alt="Screenshot 2025-08-07 at 12 08 00 PM" src="https://github.com/user-attachments/assets/602f7b80-14c8-402a-96fb-5fa0f6d4fc7e" />
+
+<img width="1506" height="856" alt="Screenshot 2025-08-07 at 12 08 16 PM" src="https://github.com/user-attachments/assets/d5772a39-8630-4ced-b7af-0b0718730ca3" />
+
+
 
 ## 📁 Project Structure
 
